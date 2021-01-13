@@ -16,7 +16,7 @@ let score = 0;
 
 const drawMap = () => {
   ctx.fillStyle = "#0e3447";
-  ctx.fillRect(0, 0, 600, 600);
+  ctx.fillRect(0, 0, 800, 800);
 };
 
 const drawSnake = () => {
